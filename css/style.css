@@ -428,3 +428,94 @@
                         cursor: pointer;
                         user-select: none;
                     }
+                    .hsuHs {
+                        margin: auto
+                    }
+                    
+                    .wFncld {
+                        margin-top: 3px;
+                        color: #9aa0a6;
+                        height: 20px;
+                        width: 20px
+                    }
+
+                    .gLFyf {
+                        background-color: transparent;
+                        border: none;
+                        margin: 0;
+                        padding: 0;
+                        color: rgba(0, 0, 0, .87);
+                        word-wrap: break-word;
+                        outline: none;
+                        display: flex;
+                        flex: 100%;
+                        tap-highlight-color: transparent;
+                        margin-top: -37px;
+                        height: 34px;
+                        font-size: 16px
+                    }
+                    
+                    .minidiv .gLFyf {
+                        margin-top: -35px;
+                    }
+                    
+                    .a4bIc {
+                        display: flex;
+                        flex: 1;
+                        flex-wrap: wrap
+                    }
+                    
+                    .pR49Ae {
+                        color: transparent;
+                        flex: 100%;
+                        white-space: pre;
+                        height: 34px
+                    }
+                    
+                    .pR49Ae span {
+                        background: url("/images/experiments/wavy-underline.png") repeat-x scroll 0 100% transparent;
+                        padding: 0 0 10px 0;
+                    }
+
+                    .dRYYxd {
+                        display: flex;
+                        flex: 0 0 auto;
+                        margin-top: -5px;
+                        align-items: stretch;
+                        flex-direction: row
+                    }
+                    
+                    .minidiv .dRYYxd {
+                        margin-top: 0
+                    }
+
+                    .clear-button {
+                        flex: 1 0 auto;
+                        display: none;
+                        cursor: pointer;
+                        align-items: center;
+                        border: 0;
+                        background: transparent;
+                        outline: none;
+                        padding: 0 8px;
+                        line-height: 44px
+                    }
+                    
+                    .XoaYSb {
+                        display: flex
+                    }
+                    
+                    .lBbtTb {
+                        height: 100%;
+                        color: #80868b;
+                        vertical-align: middle;
+                        outline: none
+                    }
+                    
+                    .minidiv .clear-button {
+                        line-height: 32px
+                    }
+                    
+                    .minidiv .lBbtTb {
+                        width: 20px
+                    }
